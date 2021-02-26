@@ -19,7 +19,7 @@ The purpose of this project is to visually show the differences between the magn
 
 * More views like (satellite, dark and light) are added for enhanced view on the data. 
 
-![2](https://user-images.githubusercontent.com/73450637/106336574-2e1c0180-625d-11eb-9ab7-78de9976b074.png)
+![2](https://user-images.githubusercontent.com/73450637/109250845-5f361600-77b8-11eb-92c9-445e9d145226.png)
 
 ## Summary
 
