@@ -15,7 +15,7 @@ The purpose of this project is to visually show the differences between the magn
 
 * Apart from the earthquake data, tectonic plate and major earthquake datas are added along using the corresponding json files. The overview of the map is as follows:
 
-![1](https://user-images.githubusercontent.com/73450637/106336305-9f0ee980-625c-11eb-8d6a-80e6dd705d13.png)
+![1](https://user-images.githubusercontent.com/73450637/109250839-5d6c5280-77b8-11eb-9723-b777312a9386.png)
 
 * More views like (satellite, dark and light) are added for enhanced view on the data. 
 
